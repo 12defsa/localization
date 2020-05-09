@@ -321,8 +321,8 @@ ARENA_BUSY: '§cАрена заполнена, не хватает слотов?
 ARENA_START: '§cИгра начинается...'
 ARENA_RESTART: '§cСервер перезагружается...'
 
-PLAYER_JOIN_ARENA: '%s§f зашел в игру (§a%s§f/§a%s§f)'
-PLAYER_QUIT_ARENA: '%s§f покинул игру (§c%s§f/§a%s§f)'
+PLAYER_JOIN_ARENA: '%s§f joined the game (§a%s§f/§a%s§f)'
+PLAYER_QUIT_ARENA: '%s§f leave the game (§c%s§f/§a%s§f)'
 ARENA_DO_NOT_PLAYERS: '§cОшибка, не хватает игроков для старта'
 ARENA_STARTED: '§fИгра начнется через §a%s §f%s'
 
